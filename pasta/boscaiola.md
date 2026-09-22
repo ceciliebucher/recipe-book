@@ -9,6 +9,7 @@
 - mushrooms
 - onions
 
+cook the pasta for 15 min or according to package instructions
 
 ## Instructions
 
