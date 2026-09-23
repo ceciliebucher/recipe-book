@@ -3,7 +3,7 @@
 
 ## Preparation
 
-- Remove seeds
+- keep seeds and all that and see if this work
 - Bake pumpkin/squash
 - Take out the inside of the pumpkin
 - Use 2 cups of pumpkin pulp per pie
